@@ -50,5 +50,6 @@ A few suggestions of how to get involved after you join:
 * Consider the [Certified Analytics Professional](https://www.certifiedanalytics.org/) Which includes a study guide, information about the exam, and a rigorous description of the analytics process.
 * [Consider a conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar) if at all possible. The Analytics Conference occurs annually and is a great opportunity to meet people and learn.
 * [Subscribe to Analytics Magazine](https://pubsonline.informs.org/magazine/analytics/subscribe) though you can do this whether or not you are a member.
+* If there is any activity that interests you, there is probably a way to volunteer to make that thing better. This includes volunteering as a community officer, an award judge, on a conference organizing committee, anything! This is a lot like joining a community, but you often make even stronger connections and also get to contribute to the development of the field.
 
 INFORMS as it exists today has a focus on people who are in academia which means there are a lot of resources that may not be relevant to you if you are a working professional. However, there is immense value in many things that are available, and so I recommend learning how to navigate those different areas and find the things that help you excel in the field.
